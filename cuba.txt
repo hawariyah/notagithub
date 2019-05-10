@@ -1,3 +1,7 @@
 cubaan 1
 cubaan 2
 cubaan 3
+
+cubaan 4
+cubaan 5
+cubaan 6
